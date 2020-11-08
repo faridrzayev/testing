@@ -1,7 +1,7 @@
 [
   {
     "index": 0,
-    "picture": "http://randomuser.me/api/portraits/female/0.jpg",
+    "picture": "http://randomuser.me/api/portraits/women/0.jpg",
     "birthday": "Fri Apr 06 2012 17:57:36 GMT+0500 (Azerbaijan Summer Time)",
     "name": "Susie",
     "surname": "Green",
@@ -14,7 +14,7 @@
   },
   {
     "index": 1,
-    "picture": "http://randomuser.me/api/portraits/female/1.jpg",
+    "picture": "http://randomuser.me/api/portraits/men/1.jpg",
     "birthday": "Tue Feb 01 1994 17:48:50 GMT+0400 (Azerbaijan Standard Time)",
     "name": "Pace",
     "surname": "Stafford",
@@ -27,7 +27,7 @@
   },
   {
     "index": 2,
-    "picture": "http://randomuser.me/api/portraits/male/2.jpg",
+    "picture": "http://randomuser.me/api/portraits/men/2.jpg",
     "birthday": "Sun Jan 28 1990 13:52:33 GMT+0400 (Azerbaijan Standard Time)",
     "name": "Black",
     "surname": "Sanders",
@@ -40,7 +40,7 @@
   },
   {
     "index": 3,
-    "picture": "http://randomuser.me/api/portraits/male/3.jpg",
+    "picture": "http://randomuser.me/api/portraits/women/3.jpg",
     "birthday": "Thu Aug 30 2007 23:07:50 GMT+0500 (Azerbaijan Summer Time)",
     "name": "Noemi",
     "surname": "Baker",
@@ -53,7 +53,7 @@
   },
   {
     "index": 4,
-    "picture": "http://randomuser.me/api/portraits/female/4.jpg",
+    "picture": "http://randomuser.me/api/portraits/men/4.jpg",
     "birthday": "Mon Jun 06 1994 16:54:21 GMT+0400 (Azerbaijan Standard Time)",
     "name": "Eaton",
     "surname": "Gould",
@@ -66,7 +66,7 @@
   },
   {
     "index": 5,
-    "picture": "http://randomuser.me/api/portraits/male/5.jpg",
+    "picture": "http://randomuser.me/api/portraits/women/5.jpg",
     "birthday": "Sat Aug 06 1983 18:42:12 GMT+0500 (Azerbaijan Summer Time)",
     "name": "Rose",
     "surname": "Steele",
@@ -79,7 +79,7 @@
   },
   {
     "index": 6,
-    "picture": "http://randomuser.me/api/portraits/female/6.jpg",
+    "picture": "http://randomuser.me/api/portraits/men/6.jpg",
     "birthday": "Tue May 16 1995 19:31:15 GMT+0400 (Azerbaijan Standard Time)",
     "name": "Bradford",
     "surname": "Ward",
