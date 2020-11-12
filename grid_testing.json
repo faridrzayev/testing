@@ -1,0 +1,34 @@
+[
+    {
+        "categoryId": 0,
+        "name": "All"
+    },
+    {
+        "categoryId": 1,
+        "name": "First Category",
+        "subCategories": [
+            {
+                "subCategoryId": 1.1,
+                "name": "First Subcategory"
+            },
+            {
+                "subCategoryId": 2,
+                "name": "Second Subcategory"
+            }
+        ]
+    },
+    {
+        "categoryId": 2,
+        "name": "Second Category",
+        "subCategories": [
+            {
+                "subCategoryId": 2.1,
+                "name": "Third Subcategory"
+            },
+            {
+                "subCategoryId": 2.2,
+                "name": "Fouth Subcategory"
+            }
+        ]
+    }
+]
