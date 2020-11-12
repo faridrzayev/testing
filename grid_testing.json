@@ -1,33 +1,39 @@
 [
     {
         "categoryId": 0,
-        "name": "All"
-    },
-    {
-        "categoryId": 1,
-        "name": "First Category",
+        "name": "All",
         "subCategories": [
             {
-                "subCategoryId": 1.1,
-                "name": "First Subcategory"
+                "categoryId": 1,
+                "name": "First Category",
+                "subCategories": [
+                    {
+                        "subCategoryId": 1.1,
+                        "name": "First Subcategory"
+                    },
+                    {
+                        "subCategoryId": 1.2,
+                        "name": "Second Subcategory"
+                    },
+                    {
+                        "subCategoryId": 1.3,
+                        "name": "Third Subcategory"
+                    }
+                ]
             },
             {
-                "subCategoryId": 2,
-                "name": "Second Subcategory"
-            }
-        ]
-    },
-    {
-        "categoryId": 2,
-        "name": "Second Category",
-        "subCategories": [
-            {
-                "subCategoryId": 2.1,
-                "name": "Third Subcategory"
-            },
-            {
-                "subCategoryId": 2.2,
-                "name": "Fouth Subcategory"
+                "categoryId": 2,
+                "name": "Second Category",
+                "subCategories": [
+                    {
+                        "subCategoryId": 2.1,
+                        "name": "Fourth Subcategory"
+                    },
+                    {
+                        "subCategoryId": 2.2,
+                        "name": "Fifth Subcategory"
+                    }
+                ]
             }
         ]
     }
