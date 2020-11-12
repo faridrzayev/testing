@@ -1,8 +1,6 @@
 [
     {
-        "categoryId": 0,
-        "name": "All",
-        "categories": [
+        "all": [
             {
                 "categoryId": 1,
                 "name": "First Category",
