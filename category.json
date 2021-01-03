@@ -1,0 +1,694 @@
+{
+    "categories": [{
+            "nameOfCategory": "Health & Medicine",
+            "avatarUrl": "",
+            "categortId": 1,
+            "subCategories": [{
+                    "nameOfSubCategory": "Accident and emergency",
+                    "subcategoryId": "V1HbdoqqK",
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Allergology",
+                    "subcategoryId": 1.2,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Anaesthesia",
+                    "subcategoryId": 1.3,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Cardiology",
+                    "subcategoryId": 1.4,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Chiropractic",
+                    "subcategoryId": 1.5,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Clinical Haematology",
+                    "subcategoryId": 1.6,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Critical Care Medicine",
+                    "subcategoryId": 1.7,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Dentistry",
+                    "subcategoryId": 1.8,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Dermatology and Cosmetology",
+                    "subcategoryId": 1.9,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Otolaryngology (ENT)",
+                    "subcategoryId": 1.11,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Endocrinology",
+                    "subcategoryId": 1.12,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "General Surgery",
+                    "subcategoryId": 1.13,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Infectious Diseases",
+                    "subcategoryId": 1.14,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Internal Medicine",
+                    "subcategoryId": 1.15,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "In-Vitro Fertilisation",
+                    "subcategoryId": 1.16,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Laboratory Medicine",
+                    "subcategoryId": 1.17,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Donation and transplantation",
+                    "subcategoryId": 1.18,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Maxillofacial Surgery",
+                    "subcategoryId": 1.19,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Gastroenterology",
+                    "subcategoryId": 1.21,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Gynecology",
+                    "subcategoryId": 1.22,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Neonatology",
+                    "subcategoryId": 1.23,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Nephrology",
+                    "subcategoryId": 1.24,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Nutrition & Dietetics",
+                    "subcategoryId": 1.25,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Neurology",
+                    "subcategoryId": 1.26,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Neurosurgery",
+                    "subcategoryId": 1.27,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Oncology",
+                    "subcategoryId": 1.28,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Ophthalmology",
+                    "subcategoryId": 1.29,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Orthopedics & Joint Replacement",
+                    "subcategoryId": 1.31,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Pain Management",
+                    "subcategoryId": 1.32,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Pediatrics",
+                    "subcategoryId": 1.33,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Pediatric Surgery",
+                    "subcategoryId": 1.34,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Physiotherapy",
+                    "subcategoryId": 1.35,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Plastic Surgery",
+                    "subcategoryId": 1.36,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Psychology",
+                    "subcategoryId": 1.37,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Urology",
+                    "subcategoryId": 1.38,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Vascular and endovascular surgery",
+                    "subcategoryId": 1.39,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Beauty",
+            "avatarUrl": "",
+            "categortId": 2,
+            "subCategories": [{
+                    "nameOfSubCategory": "Women Hair Care",
+                    "subcategoryId": 2.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Men Barbering Services",
+                    "subcategoryId": 2.2,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Facial Treatments",
+                    "subcategoryId": 2.3,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Eye Treatment",
+                    "subcategoryId": 2.4,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Body Massage",
+                    "subcategoryId": 2.5,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Makeup Services",
+                    "subcategoryId": 2.6,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Hair Removal",
+                    "subcategoryId": 2.7,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Nail Care",
+                    "subcategoryId": 2.8,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Body Shaping",
+                    "subcategoryId": 2.9,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Vehicle Services",
+            "avatarUrl": "",
+            "categortId": 3,
+            "subCategories": [{
+                    "nameOfSubCategory": "Periodic Services",
+                    "subcategoryId": 3.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Denting & Painting",
+                    "subcategoryId": 3.2,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Cleaning",
+                    "subcategoryId": 3.3,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Tyres & Wheel Care",
+                    "subcategoryId": 3.4,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Windshields & Glass",
+                    "subcategoryId": 3.5,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Custom issues",
+                    "subcategoryId": 3.6,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Lights & Fitments",
+                    "subcategoryId": 3.7,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Household services",
+            "avatarUrl": "",
+            "categortId": 4,
+            "subCategories": [{
+                    "nameOfSubCategory": "Housekeeping",
+                    "subcategoryId": 4.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Home maintenance",
+                    "subcategoryId": 4.2,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Sport services",
+            "avatarUrl": "",
+            "categortId": 5,
+            "subCategories": [{
+                    "nameOfSubCategory": "Sport Facilities",
+                    "subcategoryId": 5.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Personal Trainers",
+                    "subcategoryId": 5.2,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Teaching",
+            "avatarUrl": "",
+            "categortId": 6,
+            "subCategories": [{
+                    "nameOfSubCategory": "Language Teachers",
+                    "subcategoryId": 6.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Private tutors - General",
+                    "subcategoryId": 6.2,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Exam Preparation",
+                    "subcategoryId": 6.3,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Private tutors - Music",
+                    "subcategoryId": 6.4,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Private tutors - Business",
+                    "subcategoryId": 6.5,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Private tutors - IT",
+                    "subcategoryId": 6.6,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Private tutors - Dance",
+                    "subcategoryId": 6.7,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Private tutors - Art",
+                    "subcategoryId": 6.8,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Entertaiment",
+            "avatarUrl": "",
+            "categortId": 7,
+            "subCategories": [{
+                    "nameOfSubCategory": "Bands",
+                    "subcategoryId": 7.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Musicians",
+                    "subcategoryId": 7.2,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Singers",
+                    "subcategoryId": 7.3,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Weddings",
+                    "subcategoryId": 7.4,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "DJs",
+                    "subcategoryId": 7.5,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Dancers",
+                    "subcategoryId": 7.6,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Childrens Entertainers",
+                    "subcategoryId": 7.7,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Shows",
+                    "subcategoryId": 7.8,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Event Organization",
+                    "subcategoryId": 7.9,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Magicians",
+                    "subcategoryId": 7.11,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Comedy Acts",
+                    "subcategoryId": 7.12,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Circus Acts",
+                    "subcategoryId": 7.13,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Other Artist",
+                    "subcategoryId": 7.14,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Art & Design",
+            "avatarUrl": "",
+            "categortId": 8,
+            "subCategories": [{
+                    "nameOfSubCategory": "Textile",
+                    "subcategoryId": 8.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Photos & Videos",
+                    "subcategoryId": 8.2,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Design services",
+                    "subcategoryId": 8.3,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Rental Services",
+            "avatarUrl": "",
+            "categortId": 9,
+            "subCategories": [{
+                    "nameOfSubCategory": "Vehicle Renting",
+                    "subcategoryId": 9.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Facility Renting",
+                    "subcategoryId": 9.2,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Other Rentals",
+                    "subcategoryId": 9.3,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Animal Services",
+            "avatarUrl": "",
+            "categortId": 10,
+            "subCategories": [{
+                    "nameOfSubCategory": "Veterinary",
+                    "subcategoryId": 10.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Pet Care",
+                    "subcategoryId": 10.2,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Computer Services",
+            "avatarUrl": "",
+            "categortId": 11,
+            "subCategories": [{
+                    "nameOfSubCategory": "IT Support",
+                    "subcategoryId": 11.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Programming & Development",
+                    "subcategoryId": 11.2,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Engineering",
+            "avatarUrl": "",
+            "categortId": 12,
+            "subCategories": [{
+                    "nameOfSubCategory": "Architectural Services",
+                    "subcategoryId": 12.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Civil Engineering",
+                    "subcategoryId": 12.2,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Electrical Engineering",
+                    "subcategoryId": 12.3,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Manufacturing",
+                    "subcategoryId": 12.4,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Mechanical Engineering",
+                    "subcategoryId": 12.5,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Structural Engineering",
+                    "subcategoryId": 12.6,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Social, Caring & Advisory Services",
+            "avatarUrl": "",
+            "categortId": 13,
+            "subCategories": [{
+                    "nameOfSubCategory": "Advisory",
+                    "subcategoryId": 13.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Childcare",
+                    "subcategoryId": 13.2,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Senior care",
+                    "subcategoryId": 13.3,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Law",
+            "avatarUrl": "",
+            "categortId": 14,
+            "subCategories": [{
+                    "nameOfSubCategory": "Corporate",
+                    "subcategoryId": 14.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Business and Contracts",
+                    "subcategoryId": 14.2,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Real estate",
+                    "subcategoryId": 14.3,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Family and personal",
+                    "subcategoryId": 14.4,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Taxation",
+                    "subcategoryId": 14.5,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Labor and Employment",
+                    "subcategoryId": 14.6,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Legal Support",
+                    "subcategoryId": 14.7,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Immigration",
+                    "subcategoryId": 14.9,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Hospitality & Tourism",
+            "avatarUrl": "",
+            "categortId": 15,
+            "subCategories": [{
+                    "nameOfSubCategory": "Hospitality",
+                    "subcategoryId": 15.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Travel & Tourism",
+                    "subcategoryId": 15.2,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Food & Drink",
+                    "subcategoryId": 15.3,
+                    "subAvatar": ""
+                }
+            ]
+        },
+        {
+            "nameOfCategory": "Other Services",
+            "avatarUrl": "",
+            "categortId": 16,
+            "subCategories": [{
+                    "nameOfSubCategory": "Administration",
+                    "subcategoryId": 16.1,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Culture & Heritage",
+                    "subcategoryId": 16.2,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Finance",
+                    "subcategoryId": 16.3,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Logistics",
+                    "subcategoryId": 16.4,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Marketing",
+                    "subcategoryId": 16.5,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Personal Services",
+                    "subcategoryId": 16.6,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Publishing",
+                    "subcategoryId": 16.7,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Religious",
+                    "subcategoryId": 16.8,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Retail",
+                    "subcategoryId": 16.9,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Security Services",
+                    "subcategoryId": 16.11,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Translation",
+                    "subcategoryId": 16.12,
+                    "subAvatar": ""
+                },
+                {
+                    "nameOfSubCategory": "Others",
+                    "subcategoryId": 16.13,
+                    "subAvatar": ""
+                }
+            ]
+        }
+    ]
+}
